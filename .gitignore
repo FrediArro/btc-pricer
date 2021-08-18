@@ -132,4 +132,4 @@ dmypy.json
 .idea
 
 #BTC price csv file
-.csv
+*.csv
